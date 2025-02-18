@@ -1,3 +1,4 @@
+## Hello🖐️
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/bae080311"
@@ -5,3 +6,5 @@
   height="400"
 />
 </a>
+
+email✉️: s24024@gsm.hs.kr
