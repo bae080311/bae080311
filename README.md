@@ -7,4 +7,4 @@
 />
 </a>
 
-email✉️: s24024@gsm.hs.kr
+**email✉️**: dev.kyungjin@gmail.com
