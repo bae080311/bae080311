@@ -5,7 +5,7 @@
 ## 🛠 Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,nestjs,django,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,tailwind,nodejs,nestjs,django,docker" />
 </a>
 
 <br/>
