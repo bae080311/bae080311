@@ -13,20 +13,11 @@
 
 ## 📊 Stats
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=bae080311&theme=dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=bae080311&theme=default"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=bae080311&theme=default"
-    alt="GitHub Streak Stats"
-  />
-</picture>
+<p align="center">
+  <a href="https://gitfut.com/bae080311">
+    <img src="https://gitfut.com/bae080311.png" width="300" alt="My GitFut card" />
+  </a>
+</p>
 
 <br/>
 <br/>
