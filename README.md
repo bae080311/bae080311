@@ -14,8 +14,12 @@
 ## 📊 Stats
 
 <p align="center">
-  <a href="https://gitfut.com/bae080311">
-    <img src="https://gitfut.com/bae080311.png" width="300" alt="My GitFut card" />
+  <a href="https://gitfut.com/bae080311?country=KR">
+    <img
+      src="https://gitfut.com/bae080311.png?country=KR"
+      width="200"
+      alt="My GitFut card"
+    />
   </a>
 </p>
 
